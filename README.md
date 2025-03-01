@@ -1,7 +1,21 @@
 {
-  "dialogOption": "warning",
-  "dialogTitle": "السلام عليكم",
-  "dialogSubtitle": "",
-  "dialogBtnExtraTxt": "",
-  "dialogMainTxt": "كيف حالك  v أخبارك؟ طمنيني عنك."
+  "dialogTitle": "اشتراك متميز!",
+  "dialogSubtitle": "تمتع بمزايا حصرية مع الاشتراك الذهبي",
+  "dialogOption": "custom",
+  "alertOption": "dialog",
+  "isMandatory": "true",
+  "isCancelable": "false",
+  "customDialogIcon": "https://cdn-icons-png.flaticon.com/512/1383/1383391.png",
+  "customDialogBack": "#1A1A1A",
+  "customDialogRound": "25",
+  "customDialogMainTxtColor": "#FFFFFF",
+  "customDialogBtnTxtColor": "#000000",
+  "dialogBtnMainTxt": "اشتراك الآن - 9.99$",
+  "dialogBtnMainClick": "browser",
+  "openLinkMain": "https://payments.example.com",
+  "dialogBtnExtraTxt": "ليس الآن",
+  "dialogBtnExtraClick": "exit",
+  "newVersion": "4.0.0",
+  "isOneTime": "true",
+  "isOneTimeKey": "gold_sub_2024"
 }
